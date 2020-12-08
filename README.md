@@ -1,6 +1,6 @@
 # Image-Processing-and-Bio-Inspired-Computing
 `(Inspired and based on Python Image Processing(CookBook), Sandipan Dey)`
-| PROJECTS | Projects GOALS |
+| PROJECTS | Project's GOALS |
 | --- | --- |
 | Image Manipulation and Transformation | `Transforming color space (RGB → Lab)` Applying affine transformation `Applying perspective transformation and homography` Creating pencil sketches from images `Creating cartoonish images` Simulating light art/long exposure `Object detection using color in HSV` |
 | Image Enhancement | `Applying filters to denoise different types of noise in an image` Improving image contrast with histogram equalization `Implementing histogram matching`|
